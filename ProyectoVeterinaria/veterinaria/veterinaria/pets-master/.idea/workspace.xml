@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc95c9cc-30eb-4b3f-b069-511759a85fa7" name="Changes" comment="Entornos???? No sé">
+      <change afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/dto/LoginRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/PetsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/PetsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/SaleDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/SaleDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/SaleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/SaleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/ServiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/ServiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/domain/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/src/main/java/com/pets/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pets/src/main/java/com/pets/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/ClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/PetService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/PetService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/SaleDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/SaleDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/SaleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/SaleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/ServiceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/ServiceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/domain/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/target/classes/com/pets/web/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/pets/target/classes/com/pets/web/controller/UserController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sophie-muriel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sophie-muriel/pets&quot;,
+    &quot;accountId&quot;: &quot;8bd399b1-139c-4dc6-b868-abfa832412d2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ntL2KUxUCsZu08PgofO1q9YLfi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.PetsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PetsApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sophmur/Desktop/pets&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sophmur\Downloads\pets\pets\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc95c9cc-30eb-4b3f-b069-511759a85fa7" name="Changes" comment="" />
+      <created>1729787217067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729787217067</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Creación proyecto">
+      <option name="closed" value="true" />
+      <created>1730392550571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730392550571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creación proyecto">
+      <option name="closed" value="true" />
+      <created>1730392651671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730392651671</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Funciona :D y la prueba con Postman también :D">
+      <option name="closed" value="true" />
+      <created>1730526178046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730526178046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="No sé qué estoy haciendo perd+on Karol">
+      <option name="closed" value="true" />
+      <created>1730582480309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730582480310</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Pets :D">
+      <option name="closed" value="true" />
+      <created>1730584309659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730584309659</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Validaciones y demás.">
+      <option name="closed" value="true" />
+      <created>1730666595908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730666595908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Validaciones y demás.">
+      <option name="closed" value="true" />
+      <created>1730666610667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730666610667</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Validaciones. Parte 2. Última parte. (Espero).">
+      <option name="closed" value="true" />
+      <created>1730787844204</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730787844204</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Validaciones (no era la última parte) y end points y método de editar y aaaa">
+      <option name="closed" value="true" />
+      <created>1730853947213</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730853947213</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Entornos???? No sé">
+      <option name="closed" value="true" />
+      <created>1730855512829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730855512830</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Creación proyecto" />
+    <MESSAGE value="Funciona :D y la prueba con Postman también :D" />
+    <MESSAGE value="No sé qué estoy haciendo perd+on Karol" />
+    <MESSAGE value="Pets :D" />
+    <MESSAGE value="Validaciones y demás." />
+    <MESSAGE value="Validaciones. Parte 2. Última parte. (Espero)." />
+    <MESSAGE value="Validaciones (no era la última parte) y end points y método de editar y aaaa" />
+    <MESSAGE value="Entornos???? No sé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entornos???? No sé" />
+  </component>
+</project>
